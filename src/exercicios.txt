@@ -1,0 +1,35 @@
+
+
+🧠 Contador com Histórico
+Crie um componente ContadorHistorico que:
+Possua um botão “Adicionar +1” que incrementa um número.
+Guarde cada valor clicado em um array de histórico (ex: [1, 2, 3]).
+Exiba abaixo a lista dos números já clicados.
+
+🧠 Controle de Formulário com Vários Inputs
+Crie um componente FormularioUsuario com os seguintes campos:
+Nome
+Email
+Idade
+Requisitos:
+Armazene todos os valores em um único objeto no estado.
+Mostre abaixo do formulário os dados digitados em tempo real.
+
+🧠 Checkbox Dinâmico
+Crie um componente ListaCheckbox que:
+Tenha uma lista de frutas (ex: Maçã, Banana, Uva).
+Cada item tenha um checkbox.
+Ao clicar, marque ou desmarque a fruta.
+Mostre abaixo as frutas selecionadas.
+
+🧠 Votação Simples
+Crie um componente Votacao que:
+Mostre três opções para o usuário votar (ex: HTML, CSS, JavaScript).
+Cada botão deve aumentar o contador de votos daquela tecnologia.
+Exiba os votos acumulados abaixo.
+
+🧠 Simulador de Carrinho de Compras
+Crie um componente Carrinho que:
+Tenha uma lista de produtos com botão “Adicionar ao carrinho”.
+Ao clicar, o produto é adicionado ao array carrinho.
+Exiba os itens adicionados e o total de itens no carrinho.
